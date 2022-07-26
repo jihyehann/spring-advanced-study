@@ -1,6 +1,6 @@
 package hello.advanced.trace.strategy;
 
-import hello.advanced.trace.strategy.strategy.*;
+import hello.advanced.trace.strategy.code.strategy.*;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 
