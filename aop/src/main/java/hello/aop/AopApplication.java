@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Import;
 //@Import(AspectV3.class)
 //@Import(AspectV4Pointcut.class)
 //@Import({AspectV5Order.LogAspect.class, AspectV5Order.TxAspect.class})
-@Import(AspectV6Advice.class)
+//@Import(AspectV6Advice.class)
 public class AopApplication {
 
 	public static void main(String[] args) {
